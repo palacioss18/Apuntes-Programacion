@@ -1,6 +1,6 @@
 # 📘 Apuntes de Programación
 
-Este repositorio contiene apuntes de programación enfocado en C++ y Python Fundamentos de Lógica.
+Este repositorio contiene apuntes de programación enfocado en C++ e Python y Fundamentos de Lógica.
 
 ## 📚 Temas
 - Variables
