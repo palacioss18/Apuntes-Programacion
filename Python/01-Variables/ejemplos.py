@@ -14,5 +14,5 @@ promedio = 7.45 #se utiliza para numeros flotantes (Decimales).
 #Ejemplo: sumar.
 a = 5
 b = 3
-#utilizamos una funcion para imprimir , mostrar en pantalla. que es el input.
-input(a+b) #Nos mostrara la suma de las variables
+#utilizamos una funcion para imprimir , mostrar en pantalla. que es el print.
+print(a+b) #Nos mostrara la suma de las variables
