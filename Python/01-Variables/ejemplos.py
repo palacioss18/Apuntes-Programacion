@@ -16,3 +16,8 @@ a = 5
 b = 3
 #utilizamos una funcion para imprimir , mostrar en pantalla. que es el print.
 print(a+b) #Nos mostrara la suma de las variables
+
+#Por ultimo, podemos sumar strings:
+nombre : "daniel"
+saludo : " ¿Como estas?"
+print(nombre,saludo) #utilizamos una coma para utilizar otra variable.
