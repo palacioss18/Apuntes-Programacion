@@ -35,7 +35,7 @@ edad y Edad son variables distintas:
 
 ### 📝 Salida
 Para interactuar con el usuario:
-.print(): Muestra datos por consola.
+utilizamos print(): Para mostrar datos por consola.
 
 
 
