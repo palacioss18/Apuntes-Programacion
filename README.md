@@ -1,17 +1,34 @@
 # 📘 Apuntes de Programación
 
-Este repositorio contiene apuntes de programación enfocado en C++ e Python y Fundamentos de Lógica.
+Este repositorio contiene una recopilación de apuntes, ejercicios y conceptos fundamentales de programación, enfocados en el aprendizaje progresivo y la comprensión de la lógica.
 
 ## 📚 Temas
-- Variables
-- Condicionales
-- Bucles
-- Arrays
-- Funciones
+
+* Variables y tipos de datos
+* Estructuras condicionales (`if`, `else`, `switch`)
+* Bucles (`for`, `while`)
+* Arrays
+* Funciones
+* Lógica de programación
 
 ## 🎯 Objetivo
-Entender los conceptos y poder explicarlos de forma simple.
 
-## 🚀 Lenguajes
-- C++
-- Python
+Organizar y reforzar los conocimientos adquiridos en programación, facilitando el estudio y la práctica mediante ejemplos claros y simples.
+
+## 💻 Lenguajes
+
+* C++
+* Python
+
+## 📂 Estructura
+
+* `C++/` → Apuntes y ejercicios en C++
+* `Python/` → Apuntes y ejemplos en Python
+
+## 🚀 Progreso
+
+Repositorio en constante actualización a medida que avanzo en la cursada y profundizo en nuevos temas.
+
+## ✍️ Autor
+
+* Jose Palacios
