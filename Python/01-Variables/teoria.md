@@ -30,10 +30,10 @@ La primera palabra va en minúscula y cada palabra siguiente empieza con mayúsc
 Es como el Camel Case, pero la primera letra también es mayúscula.
 **Ejemplo :** UsuarioAdmin, SistemaTurnos.
 
-*** 📝 Sensible a Mayúsculas
+### 📝 Sensible a Mayúsculas
 edad y Edad son variables distintas:
 
-*** 📝 Salida
+### 📝 Salida
 Para interactuar con el usuario:
 .print(): Muestra datos por consola.
 
