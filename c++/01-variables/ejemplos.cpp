@@ -12,5 +12,8 @@ int main(){
   double num; //igual que flotante solo que mayor capacidad de memoria
   bool logico; //es true o false
 
+  //operaciones con variables
+  int numero1,numero2;
+  std::cout<<numero1 + numero2;
 
 }
