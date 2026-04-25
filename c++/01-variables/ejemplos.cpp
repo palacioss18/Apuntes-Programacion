@@ -1,6 +1,9 @@
 #include<iostream>
 int main(){
   //Variable
+
+  //declaramos la variable con un tipo de dato
+  int suma; //y la definimos
   
   //Tipos de datos
   int num; //entero
